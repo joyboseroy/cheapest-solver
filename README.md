@@ -190,7 +190,7 @@ and treating energy as a first-class routing criterion.
 
 ## Author
 
-**Dr. Joy Bose** — Senior Data Scientist and AI Researcher, Ericsson Global, Bengaluru
+**Dr. Joy Bose** — AI Researcher, Bengaluru
 
 [Google Scholar](https://scholar.google.com/citations?user=1E0YgA4AAAAJ) ·
 [LinkedIn](https://linkedin.com/in/joyboseroy) ·
